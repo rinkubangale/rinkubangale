@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rinkubangale
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning MERN | Full Stack Web Development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me www.linkedin.com/in/rinku-bangale-599433155
 
