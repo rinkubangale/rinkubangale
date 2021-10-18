@@ -1,14 +1,37 @@
-# 👋  Hi,  I’m Rinku Bangale
-- 🌱 I’m currently learning MERN | Full Stack Web Development
-- 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me [<img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="drawing" width="22px" />](www.linkedin.com/in/rinku-bangale-599433155), [<img src="https://cdn.freelogovectors.net/wp-content/uploads/2020/10/gmail_logo_icon.png" alt="drawing" width="22px" />](gmail.com/bangalehemant@gmail.com), <img src="https://th.bing.com/th/id/R.cc8acea128f72dedc052f66229e90911?rik=nO84lA4P0dz4hA&riu=http%3a%2f%2fpurepng.com%2fpublic%2fuploads%2flarge%2fpurepng.com-phone-iconsymbolsiconsapple-iosiosios-8-iconsios-8-721522596098aomr5.png&ehk=0e9Hiko%2frNpuL7sj3DRjTmIHw19k7YAQl8836AxYmvI%3d&risl=&pid=ImgRaw&r=0" alt="drawing" width="22px" /> 7057215258
+<h1 align="center">Hi 👋, I'm Rinku Bangale</h1>
+<h3 align="center">A passionate Full Stack Web developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rinkubangale&label=Profile%20views&color=0e75b6&style=flat" alt="rinkubangale" /> </p>
 
-I'm Good In:
-  - FrontEnd : ReactJs, HTML, CSS, JavaScript, BootStrap
-  - BackEnd :  NodeJs, MongoDB, Express, Mongoose, Git
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rinkubangale" alt="rinkubangale" /></a> </p>
 
-<!---
-rinkubangale/rinkubangale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://twitter.com/rinku_bangale" target="blank"><img src="https://img.shields.io/twitter/follow/rinku_bangale?logo=twitter&style=for-the-badge" alt="rinku_bangale" /></a> </p>
+
+- 🌱 I’m currently learning **MERN Stack**
+
+- 👨‍💻 All of my projects are available at [http://bangalerinku.herokuapp.com/](http://bangalerinku.herokuapp.com/)
+
+- 💬 Ask me about **ReactJs, NodeJs, MongoDB, Express**
+
+- 📫 How to reach me **bangalehemant@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rinku_bangale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rinku_bangale" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rinku-bangale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rinku-bangale" height="30" width="40" /></a>
+<a href="https://codesandbox.com/rinkubangale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="rinkubangale" height="30" width="40" /></a>
+<a href="https://medium.com/@bangalehemant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bangalehemant" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rinkubangale&show_icons=true&locale=en&layout=compact" alt="rinkubangale" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rinkubangale&show_icons=true&locale=en" alt="rinkubangale" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rinkubangale&" alt="rinkubangale" /></p>
