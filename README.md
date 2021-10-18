@@ -5,8 +5,8 @@
 
 
 I'm Good In:
-  - FrontEnd : ReactJs, NodeJs, HTML, CSS, JavaScript, BootStrap
-  - BackEnd : MongoDB, Express, Mongoose, Git
+  - FrontEnd : ReactJs, HTML, CSS, JavaScript, BootStrap
+  - BackEnd :  NodeJs, MongoDB, Express, Mongoose, Git
 
 <!---
 rinkubangale/rinkubangale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
