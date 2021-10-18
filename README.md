@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rinkubangale
+- #👋 Hi, I’m @rinkubangale
 - 🌱 I’m currently learning MERN | Full Stack Web Development
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me [LinkedIn](www.linkedin.com/in/rinku-bangale-599433155)
