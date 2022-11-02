@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rinku_bangale" target="blank"><img src="https://img.shields.io/twitter/follow/rinku_bangale?logo=twitter&style=for-the-badge" alt="rinku_bangale" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently working as a **Salesforce Developer**
 
 - 👨‍💻 All of my projects are available at [http://bangalerinku.herokuapp.com/](http://bangalerinku.herokuapp.com/)
 
